@@ -125,8 +125,8 @@
       "showDraftToggle": false
     },
     "pages": {
-      "ListReport|getUsers": {
-        "entitySet": "getUsers",
+      "ListReport|getLocProd": {
+        "entitySet": "getLocProd",
         "component": {
           "name": "sap.suite.ui.generic.template.ListReport",
           "list": true,
@@ -145,8 +145,8 @@
           }
         },
         "pages": {
-          "ObjectPage|getUsers": {
-            "entitySet": "getUsers",
+          "ObjectPage|getLocProd": {
+            "entitySet": "getLocProd",
             "defaultLayoutTypeIfExternalNavigation": "MidColumnFullScreen",
             "component": {
               "name": "sap.suite.ui.generic.template.ObjectPage"
